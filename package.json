@@ -1,0 +1,21 @@
+{
+  "name": "masterdosi-helloworld-nodejs",
+  "version": "0.0.0",
+  "description": "Ce projet propose un simple serveur NODE JS tournant sur le port 3000 et disposant d'une simple route associée à l'uri \"/\".",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	"express": "3.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pilerou/masterdosi-helloworld-nodejs.git"
+  },
+  "author": "Pierre Le Roux",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/pilerou/masterdosi-helloworld-nodejs/issues"
+  }
+}
