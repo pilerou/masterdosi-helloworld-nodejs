@@ -17,10 +17,5 @@
   "license": "BSD",
   "bugs": {
     "url": "https://github.com/pilerou/masterdosi-helloworld-nodejs/issues"
-  },
-  {
-	"engines": {
-		"node": "0.10.x"
-	}
   }
 }
